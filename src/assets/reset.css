@@ -1,0 +1,41 @@
+
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: #F4F5F8;
+  font-family: "Microsoft YaHei", "宋体", "Lucida Grande", "Lucida Sans", sans-serif;
+}
+
+body,
+p,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+} 
+input,
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+} 
